@@ -1,5 +1,4 @@
-﻿#define IL2CPP
-using HarmonyLib;
+﻿using HarmonyLib;
 using MelonLoader;
 using UnityEngine;
 using UnityEngine.SceneManagement;
